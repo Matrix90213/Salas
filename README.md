@@ -1,0 +1,2 @@
+# Salas
+Proyecto centralizado
